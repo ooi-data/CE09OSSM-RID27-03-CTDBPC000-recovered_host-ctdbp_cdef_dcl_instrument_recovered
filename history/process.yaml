@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE09OSSM-RID27-03-CTDBPC000-recovered_host-ctdbp_cdef_dcl_instrument_recovered
 data_stream: CE09OSSM-RID27-03-CTDBPC000-recovered_host-ctdbp_cdef_dcl_instrument_recovered
 end_date: '2021-09-14T13:15:06.028Z'
-last_updated: '2021-12-22T03:46:00.198758'
+last_updated: '2022-01-01T06:26:35.178091Z'
 start_date: '2015-04-09T17:30:25.045Z'
-status: success
+status: pending
